@@ -1,8 +1,11 @@
 👋 Hi, I’m Seok-Hee Han, Welcome to my profile
 
-🌱 I’m currently learning ...
-- HTML/CSS/JS 
+✨️ I can use
+- HTML/CSS/JS
 - Java
+
+🌱 I’m currently learning ...
+- C
 
 📫 How to reach me ... 
 - shan258@wisc.edu / seokheehan01@gmail.com 
