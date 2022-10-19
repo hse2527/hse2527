@@ -3,6 +3,7 @@
 ✨️ I can use
 - HTML/CSS/JS
 - Java
+- TypeScript
 
 🌱 I’m currently learning ...
 - C
