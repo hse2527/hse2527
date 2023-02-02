@@ -2,11 +2,14 @@
 
 ✨️ I can use
 - HTML/CSS/JS
-- Java
 - TypeScript
+- Java
+- C
 
 🌱 I’m currently learning ...
-- C
+- SQL
+- C++
+- Python
 
 📫 How to reach me ... 
 - shan258@wisc.edu / seokheehan01@gmail.com 
