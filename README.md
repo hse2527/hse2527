@@ -2,17 +2,18 @@
 
 [![Seok-Hee's github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=hse2527&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-✨️ I can use
+✨️ I can/have use(d)
 - HTML/CSS/JS
 - TypeScript
 - Express.js
 - Java
+- SQL
 - C
+- Monolithic Architecture
 
 🌱 I’m currently learning ...
-- SQL
-- C++
-- Python
+- Azure CosmosDB
+- MicroService Architecture
 
 📫 How to reach me ... 
 - shan258@wisc.edu / seokheehan01@gmail.com 
