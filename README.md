@@ -5,15 +5,16 @@
 ✨️ I can/have use(d)
 - HTML/CSS/JS
 - TypeScript
-- Express.js
+- Express
 - Java
-- SQL
 - C
+- SQL
+- Azure CosmosDB
+- MongoDB
 - Monolithic Architecture
+- MicroService Architecture
 
 🌱 I’m currently learning ...
-- Azure CosmosDB
-- MicroService Architecture
 
 📫 How to reach me ... 
 - shan258@wisc.edu / seokheehan01@gmail.com 
