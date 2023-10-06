@@ -15,6 +15,8 @@
 - MicroService Architecture
 
 🌱 I’m currently learning ...
+- Algorithms
+- UI/UX Design
 
 📫 How to reach me ... 
 - shan258@wisc.edu / seokheehan01@gmail.com 
