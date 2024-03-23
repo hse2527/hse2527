@@ -8,6 +8,7 @@
 - Express
 - Java
 - C
+- React
 - SQL
 - Azure CosmosDB
 - MongoDB
@@ -16,8 +17,7 @@
 
 🌱 I’m currently learning ...
 - Algorithms
-- UI/UX Design
-- React
+- Python
 
 📫 How to reach me ... 
 - shan258@wisc.edu / seokheehan01@gmail.com 
