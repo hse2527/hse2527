@@ -16,7 +16,7 @@
 - MicroService Architecture
 
 🌱 I’m currently learning ...
-- Algorithms
+- Go
 - Python
 
 📫 How to reach me ... 
