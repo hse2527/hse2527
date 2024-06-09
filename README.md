@@ -1,6 +1,7 @@
 👋 Hi, I’m Seok-Hee Han, Welcome to my profile
 
 [![Seok-Hee's github stats](https://github-readme-stats-peach-eight.vercel.app/api?username=hse2527&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-peach-eight.vercel.app/api/top-langs/?username=hse2527&layout=compact&langs_count=10/)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨️ I can/have use(d)
 - HTML/CSS/JS
